@@ -1,6 +1,6 @@
 
 body{
-	background-color: lightgreen
+	background-image: url("http://orig08.deviantart.net/d04b/f/2015/105/6/1/epic_friends_forever__fnaf_sfm_wallpaper__by_gold94chica-d8pv5ol.png");
 
 }
 h1{
@@ -36,9 +36,20 @@ h1{
 #contaner{
 	display: flex;
 	flex-flow: row wrap;
-	border:1px solid black;
+	border:10px solid black;
+	width: 1700px;
+    height: 1000px
+
 }
 .profile{
-width: 50px;
-height: 50px;
+	font-size: 200%;
+	color: green
+}
+#bob{
+	padding: 0px 100px;
+}
+#bears{
+	padding: 0px 100px;
+}#pizza	{
+	padding: 0px 50px;
 }
