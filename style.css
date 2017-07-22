@@ -45,6 +45,11 @@ h1{
 	font-size: 200%;
 	color: green
 }
+#logo{
+  width: 245px;
+  height: 220px;
+  float: right;
+}
 #bob{
 	padding: 0px 100px;
 }
@@ -52,4 +57,25 @@ h1{
 	padding: 0px 100px;
 }#pizza	{
 	padding: 0px 50px;
+}
+#piza{
+  padding: 0px 100px;
+}
+#pizzza{
+  padding: 0px 100px;
+}
+#about{
+  opacity: 0.75;
+  background-color: black;
+  color:green;
+  text-align: center;
+  font-size: 80px
+
+}
+#restaurant{
+  color: green;
+  text-align: center;
+  font-size: 100px;
+  background-color: white;
+  opacity: 0.75;
 }
